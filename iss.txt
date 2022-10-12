@@ -1,0 +1,18 @@
+Temos 14 astronautas no ISS agora: 
+ 
+Kjell Lindgren - a bordo
+Bob Hines - a bordo
+Samantha Cristoforetti - a bordo
+Jessica Watkins - a bordo
+Cai Xuzhe - a bordo
+Chen Dong - a bordo
+Liu Yang - a bordo
+Sergey Prokopyev - a bordo
+Dmitry Petelin - a bordo
+Frank Rubio - a bordo
+Nicole Mann - a bordo
+Josh Cassada - a bordo
+Koichi Wakata - a bordo
+Anna Kikina - a bordo
+
+ Sua localização autal Lat / Long é: [-23.5475, -46.6361]
